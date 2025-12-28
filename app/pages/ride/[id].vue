@@ -139,6 +139,8 @@ const upcomingStartTimes = computed(() => {
 const saveRide = () => {
     toggleFavorite(ride.value.id)
 }
+
+
 </script>
 
 <style scoped>

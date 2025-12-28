@@ -29,6 +29,8 @@ const favoriteRides = computed(() =>
 const goToRide = (ride) => {
     router.push(`/ride/${ride.id}`)
 }
+
+
 </script>
 
 <style scoped>

@@ -19,6 +19,7 @@ const invertedLiveData = computed({
     set: (val) => { liveData.value = !val } // inverse quand on change la checkbox
 })
 
+
 </script>
 
 <style scoped>

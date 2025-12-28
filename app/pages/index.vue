@@ -60,6 +60,8 @@ const router = useRouter()
 const pushToSearch = (type) => {
   router.push(`/search?type=${type}`)
 } 
+
+
 </script>
 
 <style scoped>
