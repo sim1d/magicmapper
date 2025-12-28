@@ -4,6 +4,7 @@ Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduct
 
 ## Link
 [DevPost](https://devpost.com/software/magicmapper)
+
 [Live Demo](https://magicmapper-prototype.vercel.app/)
 
 ## Setup
