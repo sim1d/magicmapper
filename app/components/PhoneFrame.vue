@@ -12,6 +12,11 @@
             <br>
             <br>
             <p>Presented & developed by sim1d.</p>
+            <br>
+            <br>
+            <p><a link="https://github.com/sim1d/magicmapper" target="_blank">GitHub Link</a></p>
+            <p><a link="" target="_blank">DevPost Link</a></p>
+            <p><a link="https://youtu.be/xrKdcysG6oM" target="_blank">walkthrough Video Link</a></p>
         </div>
         <div class="content">
             <div class="frame-container">
