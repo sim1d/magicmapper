@@ -1,0 +1,497 @@
+{
+    "Pirate Galleon": {
+        "name": "Pirate Galleon",
+        "pos": [
+            48.8729214,
+            2.7737364
+        ]
+    },
+    "Le Carrousel de Lancelot ": {
+        "name": "Le Carrousel de Lancelot ",
+        "pos": [
+            48.8737621,
+            2.7753711
+        ]
+    },
+    "Disney Tales of Magic": {
+        "name": "Disney Tales of Magic",
+        "pos": [
+            48.8673858,
+            2.783593
+        ]
+    },
+    "Peter Pan's Flight": {
+        "name": "Peter Pan's Flight",
+        "pos": [
+            48.87384609999999,
+            2.7740731
+        ]
+    },
+    "Princess Aurora's Magical Wishes": {
+        "name": "Princess Aurora's Magical Wishes",
+        "pos": [
+            48.8747668,
+            2.7755612
+        ]
+    },
+    "Orbitron®": {
+        "name": "Orbitron®",
+        "pos": [
+            48.87356279999999,
+            2.7783953
+        ]
+    },
+    "Pirates of the Caribbean": {
+        "name": "Pirates of the Caribbean",
+        "pos": [
+            48.8734963,
+            2.7733834
+        ]
+    },
+    "Autopia, presented by Avis": {
+        "name": "Autopia, presented by Avis",
+        "pos": [
+            48.8734222,
+            2.7787935
+        ]
+    },
+    "Mickey’s Halloween Celebration": {
+        "name": "Mickey’s Halloween Celebration",
+        "pos": [
+            48.874419,
+            2.7738541
+        ]
+    },
+    "Minnie’s Marching Band": {
+        "name": "Minnie’s Marching Band",
+        "pos": [
+            48.8673858,
+            2.783593
+        ]
+    },
+    "Princess Pavilion": {
+        "name": "Princess Pavilion",
+        "pos": [
+            48.8747668,
+            2.7755612
+        ]
+    },
+    "Big Thunder Mountain": {
+        "name": "Big Thunder Mountain",
+        "pos": [
+            48.8715357,
+            2.7747023
+        ]
+    },
+    "La Tanière du Dragon": {
+        "name": "La Tanière du Dragon",
+        "pos": [
+            48.8728867,
+            2.7759671
+        ]
+    },
+    "Mickey’s PhilharMagic": {
+        "name": "Mickey’s PhilharMagic",
+        "pos": [
+            48.87450080000001,
+            2.7797451
+        ]
+    },
+    "Disneyland Railroad Main Street Station": {
+        "name": "Disneyland Railroad Main Street Station",
+        "pos": [
+            48.8708418,
+            2.7791082
+        ]
+    },
+    "Disney Princess Holiday Season Celebration": {
+        "name": "Disney Princess Holiday Season Celebration",
+        "pos": [
+            48.8673858,
+            2.783593
+        ]
+    },
+    "Buzz Lightyear Laser Blast": {
+        "name": "Buzz Lightyear Laser Blast",
+        "pos": [
+            48.87343,
+            2.7779628
+        ]
+    },
+    "\"it's a small world\"": {
+        "name": "\"it's a small world\"",
+        "pos": [
+            48.8746045,
+            2.7760585
+        ]
+    },
+    "Adventure Isle": {
+        "name": "Adventure Isle",
+        "pos": [
+            48.8727101,
+            2.773228
+        ]
+    },
+    "Les Mystères du Nautilus": {
+        "name": "Les Mystères du Nautilus",
+        "pos": [
+            48.8734204,
+            2.77962
+        ]
+    },
+    "Rustler Roundup Shootin' Gallery": {
+        "name": "Rustler Roundup Shootin' Gallery",
+        "pos": [
+            48.8715571,
+            2.7755898
+        ]
+    },
+    "Thunder Mesa Riverboat Landing": {
+        "name": "Thunder Mesa Riverboat Landing",
+        "pos": [
+            48.87118770000001,
+            2.7764948
+        ]
+    },
+    "Star Tours: The Adventures Continue*": {
+        "name": "Star Tours: The Adventures Continue*",
+        "pos": [
+            48.8746331,
+            2.778779
+        ]
+    },
+    "La Cabane des Robinson": {
+        "name": "La Cabane des Robinson",
+        "pos": [
+            48.8724538,
+            2.7739421
+        ]
+    },
+    "Disney Stars on Parade ": {
+        "name": "Disney Stars on Parade ",
+        "pos": [
+            48.8673858,
+            2.783593
+        ]
+    },
+    "Meet Mickey Mouse": {
+        "name": "Meet Mickey Mouse",
+        "pos": [
+            48.874419,
+            2.7738541
+        ]
+    },
+    "Reserved viewing area: Disney Stars on Parade": {
+        "name": "Reserved viewing area: Disney Stars on Parade",
+        "pos": null
+    },
+    "Mary Poppins and the Pearly Band": {
+        "name": "Mary Poppins and the Pearly Band",
+        "pos": null
+    },
+    "Le Pays des Contes de Fées, presented by Vittel": {
+        "name": "Le Pays des Contes de Fées, presented by Vittel",
+        "pos": [
+            48.8752916,
+            2.7746922
+        ]
+    },
+    "Disneyland Railroad Frontierland Depot": {
+        "name": "Disneyland Railroad Frontierland Depot",
+        "pos": [
+            48.8702378,
+            2.7722491
+        ]
+    },
+    "Moana and her Musicians": {
+        "name": "Moana and her Musicians",
+        "pos": null
+    },
+    "Main Street Vehicles": {
+        "name": "Main Street Vehicles",
+        "pos": [
+            48.8713403,
+            2.7789377
+        ]
+    },
+    "Indiana Jones™ and the Temple of Peril": {
+        "name": "Indiana Jones™ and the Temple of Peril",
+        "pos": [
+            48.8724169,
+            2.7721101
+        ]
+    },
+    "The Lion King: Rhythms of the Pride Lands": {
+        "name": "The Lion King: Rhythms of the Pride Lands",
+        "pos": [
+            48.870332,
+            2.772753
+        ]
+    },
+    "The Grand Orchestra Finale": {
+        "name": "The Grand Orchestra Finale",
+        "pos": null
+    },
+    "Let’s Sing Christmas!": {
+        "name": "Let’s Sing Christmas!",
+        "pos": null
+    },
+    "Musical Meet-up with Rapunzel and Flynn": {
+        "name": "Musical Meet-up with Rapunzel and Flynn",
+        "pos": [
+            48.868023,
+            2.778866
+        ]
+    },
+    "Mickey's Dazzling Christmas Parade!": {
+        "name": "Mickey's Dazzling Christmas Parade!",
+        "pos": [
+            48.8673858,
+            2.783593
+        ]
+    },
+    "Frontierland Playground": {
+        "name": "Frontierland Playground",
+        "pos": [
+            48.8703967,
+            2.7741952
+        ]
+    },
+    "Welcome to Starport: A Star Wars Encounter": {
+        "name": "Welcome to Starport: A Star Wars Encounter",
+        "pos": [
+            48.8737352,
+            2.7791382
+        ]
+    },
+    "Miguel's Fiesta Latina": {
+        "name": "Miguel's Fiesta Latina",
+        "pos": null
+    },
+    "Dumbo the Flying Elephant": {
+        "name": "Dumbo the Flying Elephant",
+        "pos": [
+            48.87399809999999,
+            2.7745852
+        ]
+    },
+    "Blanche-Neige et les Sept Nains®": {
+        "name": "Blanche-Neige et les Sept Nains®",
+        "pos": [
+            48.8734541,
+            2.7753316
+        ]
+    },
+    "Le Passage Enchanté d'Aladdin": {
+        "name": "Le Passage Enchanté d'Aladdin",
+        "pos": [
+            48.872526,
+            2.7754709
+        ]
+    },
+    "Pirates' Beach": {
+        "name": "Pirates' Beach",
+        "pos": [
+            48.8727261,
+            2.7737756
+        ]
+    },
+    "A Sweet Moment with Mrs. Claus": {
+        "name": "A Sweet Moment with Mrs. Claus",
+        "pos": null
+    },
+    "Reserved viewing area: Nighttime show": {
+        "name": "Reserved viewing area: Nighttime show",
+        "pos": null
+    },
+    "Mad Hatter's Tea Cups": {
+        "name": "Mad Hatter's Tea Cups",
+        "pos": [
+            48.8744215,
+            2.775168
+        ]
+    },
+    "Casey Jr. – le Petit Train du Cirque": {
+        "name": "Casey Jr. – le Petit Train du Cirque",
+        "pos": [
+            48.8751718,
+            2.7743006
+        ]
+    },
+    "Alice's Curious Labyrinth": {
+        "name": "Alice's Curious Labyrinth",
+        "pos": [
+            48.8744926,
+            2.7744886
+        ]
+    },
+    "Timon's Matadance": {
+        "name": "Timon's Matadance",
+        "pos": null
+    },
+    "Disney Music Hits Concert": {
+        "name": "Disney Music Hits Concert",
+        "pos": [
+            48.8673858,
+            2.783593
+        ]
+    },
+    "Donald and Daisy's Accordionist": {
+        "name": "Donald and Daisy's Accordionist",
+        "pos": [
+            48.8673858,
+            2.783593
+        ]
+    },
+    "Holiday Gathering": {
+        "name": "Holiday Gathering",
+        "pos": [
+            48.8673858,
+            2.783593
+        ]
+    },
+    "Phantom Manor": {
+        "name": "Phantom Manor",
+        "pos": [
+            48.8709749,
+            2.7768153
+        ]
+    },
+    "Les Voyages de Pinocchio": {
+        "name": "Les Voyages de Pinocchio",
+        "pos": [
+            48.8735736,
+            2.7752062
+        ]
+    },
+    "Star Wars Hyperspace Mountain": {
+        "name": "Star Wars Hyperspace Mountain",
+        "pos": [
+            48.874126,
+            2.7792799
+        ]
+    },
+    "Toy Soldiers Parachute Drop": {
+        "name": "Toy Soldiers Parachute Drop",
+        "pos": [
+            48.8671523,
+            2.7774423
+        ]
+    },
+    "Spider-Man W.E.B. Adventure": {
+        "name": "Spider-Man W.E.B. Adventure",
+        "pos": [
+            48.8659071,
+            2.7790665
+        ]
+    },
+    "Crush's Coaster": {
+        "name": "Crush's Coaster",
+        "pos": [
+            48.8680718,
+            2.7781835
+        ]
+    },
+    "Avengers Assemble: Flight Force": {
+        "name": "Avengers Assemble: Flight Force",
+        "pos": [
+            48.8653195,
+            2.779662
+        ]
+    },
+    "Frozen: A Musical Invitation": {
+        "name": "Frozen: A Musical Invitation",
+        "pos": [
+            48.8672988,
+            2.7786545
+        ]
+    },
+    "Stitch Live!": {
+        "name": "Stitch Live!",
+        "pos": [
+            48.86663799999999,
+            2.7802199
+        ]
+    },
+    "Mickey and the Magician": {
+        "name": "Mickey and the Magician",
+        "pos": [
+            48.868023,
+            2.778866
+        ]
+    },
+    "Ratatouille : L’Aventure Totalement Toquée de Rémy​": {
+        "name": "Ratatouille : L’Aventure Totalement Toquée de Rémy​",
+        "pos": [
+            48.8675673,
+            2.7762442
+        ]
+    },
+    "TOGETHER: a Pixar Musical Adventure": {
+        "name": "TOGETHER: a Pixar Musical Adventure",
+        "pos": [
+            48.8670592,
+            2.7800738
+        ]
+    },
+    "Alice & the Queen of Hearts: Back to Wonderland ": {
+        "name": "Alice & the Queen of Hearts: Back to Wonderland ",
+        "pos": [
+            48.8744926,
+            2.7744886
+        ]
+    },
+    "Cars Quatre Roues Rallye": {
+        "name": "Cars Quatre Roues Rallye",
+        "pos": [
+            48.8676914,
+            2.7778962
+        ]
+    },
+    "Animation Academy": {
+        "name": "Animation Academy",
+        "pos": [
+            48.8675621,
+            2.7783155
+        ]
+    },
+    "RC Racer": {
+        "name": "RC Racer",
+        "pos": [
+            48.8668366,
+            2.776443
+        ]
+    },
+    "Les Tapis Volants - Flying Carpets Over Agrabah®": {
+        "name": "Les Tapis Volants - Flying Carpets Over Agrabah®",
+        "pos": [
+            48.8682902,
+            2.7783714
+        ]
+    },
+    "The Twilight Zone Tower of Terror": {
+        "name": "The Twilight Zone Tower of Terror",
+        "pos": [
+            48.86670119999999,
+            2.7787489
+        ]
+    },
+    "Cars ROAD TRIP": {
+        "name": "Cars ROAD TRIP",
+        "pos": [
+            48.8663508,
+            2.7748753
+        ]
+    },
+    "Slinky® Dog Zigzag Spin": {
+        "name": "Slinky® Dog Zigzag Spin",
+        "pos": [
+            48.8670528,
+            2.7767305
+        ]
+    },
+    "Doctor Strange: Mystery of the Mystics!": {
+        "name": "Doctor Strange: Mystery of the Mystics!",
+        "pos": null
+    }
+}

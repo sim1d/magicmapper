@@ -1,0 +1,12 @@
+{
+    "Disneyland Park": {
+        "name": "Disneyland Park",
+        "id": "dae968d5-630d-4719-8b06-3d107e944401",
+        "pos": [48.870205, 2.779913]
+    },
+    "Walt Disney Studios Park": {
+        "name": "Walt Disney Studios Park",
+        "id": "ca888437-ebb4-4d50-aed2-d227f7096968",
+        "pos": [48.868391, 2.780802]
+    }
+}

@@ -1,0 +1,70 @@
+@import url("./config.css");
+@import url("./reset.css");
+
+h1 {
+    font-size: 3.815rem;
+    font-weight: 700;
+    font-family: "Montserrat", sans-serif;
+}
+
+h2 {
+    font-size: 3.052rem;
+    font-weight: 700;
+    font-family: "Montserrat", sans-serif;
+}
+
+h3 {
+    font-size: 2.441rem;
+    font-weight: 700;
+    font-family: "Montserrat", sans-serif;
+}
+
+h4 {
+    font-size: 1.953rem;
+    font-weight: 700;
+    font-family: "Montserrat", sans-serif;
+}
+
+h5 {
+    font-size: 1.563rem;
+    font-weight: 700;
+    font-family: "Montserrat", sans-serif;
+}
+
+h6 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    font-family: "Montserrat", sans-serif;
+}
+
+p {
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.small {
+    font-size: 0.8rem;
+    font-weight: 400;
+}
+
+.smaller {
+    font-size: 0.64rem;
+    font-weight: 400;
+}
+
+.ride-card-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.simpleFade-enter-active,
+.simpleFade-leave-active {
+    transition: opacity 0.4s ease-in-out;
+}
+
+.simpleFade-enter-from,
+.simpleFade-leave-to {
+    opacity: 0;
+}

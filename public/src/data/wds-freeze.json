@@ -1,0 +1,627 @@
+{
+  "id": "ca888437-ebb4-4d50-aed2-d227f7096968",
+  "name": "Walt Disney Studios Park",
+  "entityType": "PARK",
+  "timezone": "Europe/Paris",
+  "liveData": [
+    {
+      "id": "a10b25e2-3176-449a-a8a5-4119902887bb",
+      "name": "Toy Soldiers Parachute Drop",
+      "entityType": "ATTRACTION",
+      "parkId": "ca888437-ebb4-4d50-aed2-d227f7096968",
+      "externalId": "P2XA07",
+      "queue": {
+        "STANDBY": {
+          "waitTime": 10
+        },
+        "SINGLE_RIDER": {
+          "waitTime": 5
+        }
+      },
+      "status": "OPERATING",
+      "lastUpdated": "2025-12-27T19:28:55Z"
+    },
+    {
+      "id": "15bad9c3-8378-4ac5-ab90-2f8d0ee09d26",
+      "name": "RC Racer",
+      "entityType": "ATTRACTION",
+      "parkId": "ca888437-ebb4-4d50-aed2-d227f7096968",
+      "externalId": "P2XA06",
+      "queue": {
+        "STANDBY": {
+          "waitTime": null
+        },
+        "SINGLE_RIDER": {
+          "waitTime": null
+        }
+      },
+      "status": "DOWN",
+      "lastUpdated": "2025-12-27T19:28:53Z"
+    },
+    {
+      "id": "ff2e7d6f-5aaf-47b8-8695-53a66e9fe073",
+      "name": "Avengers Assemble: Flight Force",
+      "entityType": "ATTRACTION",
+      "parkId": "ca888437-ebb4-4d50-aed2-d227f7096968",
+      "externalId": "P2AC01",
+      "queue": {
+        "STANDBY": {
+          "waitTime": 10
+        },
+        "SINGLE_RIDER": {
+          "waitTime": 5
+        },
+        "PAID_RETURN_TIME": {
+          "price": {
+            "amount": 1200,
+            "currency": "EUR",
+            "formatted": "12,00 €"
+          },
+          "state": "AVAILABLE",
+          "returnEnd": "2025-12-27T21:30:00+01:00",
+          "returnStart": "2025-12-27T20:40:00+01:00"
+        }
+      },
+      "status": "OPERATING",
+      "lastUpdated": "2025-12-27T19:35:32Z"
+    },
+    {
+      "id": "f0d4b531-e291-471b-9527-00410c2bbd65",
+      "name": "Crush's Coaster",
+      "entityType": "ATTRACTION",
+      "parkId": "ca888437-ebb4-4d50-aed2-d227f7096968",
+      "externalId": "P2XA03",
+      "queue": {
+        "STANDBY": {
+          "waitTime": 45
+        },
+        "SINGLE_RIDER": {
+          "waitTime": 40
+        },
+        "PAID_RETURN_TIME": {
+          "price": {
+            "amount": 2300,
+            "currency": "EUR",
+            "formatted": "23,00 €"
+          },
+          "state": "AVAILABLE",
+          "returnEnd": "2025-12-27T21:30:00+01:00",
+          "returnStart": "2025-12-27T20:40:00+01:00"
+        }
+      },
+      "status": "OPERATING",
+      "lastUpdated": "2025-12-27T19:35:32Z"
+    },
+    {
+      "id": "f710814b-232d-4469-aad7-d98b328a15b7",
+      "name": "Spider-Man W.E.B. Adventure",
+      "entityType": "ATTRACTION",
+      "parkId": "ca888437-ebb4-4d50-aed2-d227f7096968",
+      "externalId": "P2AC02",
+      "queue": {
+        "STANDBY": {
+          "waitTime": 15
+        },
+        "SINGLE_RIDER": {
+          "waitTime": 5
+        },
+        "PAID_RETURN_TIME": {
+          "price": {
+            "amount": 1800,
+            "currency": "EUR",
+            "formatted": "18,00 €"
+          },
+          "state": "AVAILABLE",
+          "returnEnd": "2025-12-27T21:30:00+01:00",
+          "returnStart": "2025-12-27T20:40:00+01:00"
+        }
+      },
+      "status": "OPERATING",
+      "lastUpdated": "2025-12-27T19:35:32Z"
+    },
+    {
+      "id": "e3b0aefc-5834-4275-9e6c-d97b8ee71a6b",
+      "name": "Frozen: A Musical Invitation",
+      "entityType": "SHOW",
+      "parkId": "ca888437-ebb4-4d50-aed2-d227f7096968",
+      "externalId": "P2GS23",
+      "status": "OPERATING",
+      "showtimes": [
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T10:30:00+01:00",
+          "startTime": "2025-12-27T10:30:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T11:15:00+01:00",
+          "startTime": "2025-12-27T11:15:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T12:00:00+01:00",
+          "startTime": "2025-12-27T12:00:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T12:45:00+01:00",
+          "startTime": "2025-12-27T12:45:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T13:30:00+01:00",
+          "startTime": "2025-12-27T13:30:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T14:15:00+01:00",
+          "startTime": "2025-12-27T14:15:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T15:00:00+01:00",
+          "startTime": "2025-12-27T15:00:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T15:45:00+01:00",
+          "startTime": "2025-12-27T15:45:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T16:30:00+01:00",
+          "startTime": "2025-12-27T16:30:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T17:15:00+01:00",
+          "startTime": "2025-12-27T17:15:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T18:00:00+01:00",
+          "startTime": "2025-12-27T18:00:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T18:45:00+01:00",
+          "startTime": "2025-12-27T18:45:00+01:00"
+        }
+      ],
+      "lastUpdated": "2025-12-26T23:01:20Z"
+    },
+    {
+      "id": "f2a48cc2-4dc3-47fd-9992-0c30eeba24f0",
+      "name": "Stitch Live!",
+      "entityType": "SHOW",
+      "parkId": "ca888437-ebb4-4d50-aed2-d227f7096968",
+      "externalId": "P2YS03",
+      "status": "OPERATING",
+      "showtimes": [
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T10:30:00+01:00",
+          "startTime": "2025-12-27T10:30:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T10:50:00+01:00",
+          "startTime": "2025-12-27T10:50:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T11:10:00+01:00",
+          "startTime": "2025-12-27T11:10:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T11:30:00+01:00",
+          "startTime": "2025-12-27T11:30:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T11:50:00+01:00",
+          "startTime": "2025-12-27T11:50:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T12:10:00+01:00",
+          "startTime": "2025-12-27T12:10:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T12:30:00+01:00",
+          "startTime": "2025-12-27T12:30:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T12:50:00+01:00",
+          "startTime": "2025-12-27T12:50:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T13:10:00+01:00",
+          "startTime": "2025-12-27T13:10:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T13:30:00+01:00",
+          "startTime": "2025-12-27T13:30:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T13:50:00+01:00",
+          "startTime": "2025-12-27T13:50:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T14:10:00+01:00",
+          "startTime": "2025-12-27T14:10:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T14:30:00+01:00",
+          "startTime": "2025-12-27T14:30:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T14:50:00+01:00",
+          "startTime": "2025-12-27T14:50:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T15:10:00+01:00",
+          "startTime": "2025-12-27T15:10:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T15:30:00+01:00",
+          "startTime": "2025-12-27T15:30:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T15:50:00+01:00",
+          "startTime": "2025-12-27T15:50:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T16:10:00+01:00",
+          "startTime": "2025-12-27T16:10:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T16:30:00+01:00",
+          "startTime": "2025-12-27T16:30:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T16:50:00+01:00",
+          "startTime": "2025-12-27T16:50:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T17:10:00+01:00",
+          "startTime": "2025-12-27T17:10:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T17:30:00+01:00",
+          "startTime": "2025-12-27T17:30:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T17:50:00+01:00",
+          "startTime": "2025-12-27T17:50:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T18:10:00+01:00",
+          "startTime": "2025-12-27T18:10:00+01:00"
+        }
+      ],
+      "lastUpdated": "2025-12-26T23:01:20Z"
+    },
+    {
+      "id": "0f5cce1d-69ed-4fad-9505-a1914dd150cb",
+      "name": "Mickey and the Magician",
+      "entityType": "SHOW",
+      "parkId": "ca888437-ebb4-4d50-aed2-d227f7096968",
+      "externalId": "P2YS08",
+      "status": "OPERATING",
+      "showtimes": [
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T13:05:00+01:00",
+          "startTime": "2025-12-27T13:05:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T14:10:00+01:00",
+          "startTime": "2025-12-27T14:10:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T16:25:00+01:00",
+          "startTime": "2025-12-27T16:25:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T17:30:00+01:00",
+          "startTime": "2025-12-27T17:30:00+01:00"
+        }
+      ],
+      "lastUpdated": "2025-12-27T18:38:34Z"
+    },
+    {
+      "id": "73e1c590-ef8f-496c-bf6c-d7e7fde0c7df",
+      "name": "Ratatouille : L’Aventure Totalement Toquée de Rémy​",
+      "entityType": "ATTRACTION",
+      "parkId": "ca888437-ebb4-4d50-aed2-d227f7096968",
+      "externalId": "P2XA09",
+      "queue": {
+        "STANDBY": {
+          "waitTime": null
+        },
+        "SINGLE_RIDER": {
+          "waitTime": null
+        }
+      },
+      "status": "CLOSED",
+      "lastUpdated": "2025-10-12T20:29:01Z"
+    },
+    {
+      "id": "72d20d9c-1f46-4866-b9b9-b428d0aaf6e8",
+      "name": "TOGETHER: a Pixar Musical Adventure",
+      "entityType": "SHOW",
+      "parkId": "ca888437-ebb4-4d50-aed2-d227f7096968",
+      "externalId": "P2GS58",
+      "status": "OPERATING",
+      "showtimes": [
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T11:05:00+01:00",
+          "startTime": "2025-12-27T11:05:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T12:15:00+01:00",
+          "startTime": "2025-12-27T12:15:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T13:35:00+01:00",
+          "startTime": "2025-12-27T13:35:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T15:40:00+01:00",
+          "startTime": "2025-12-27T15:40:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T16:50:00+01:00",
+          "startTime": "2025-12-27T16:50:00+01:00"
+        }
+      ],
+      "lastUpdated": "2025-12-26T23:01:20Z"
+    },
+    {
+      "id": "81705034-f093-4853-b76e-b1e3bb51fade",
+      "name": "Alice & the Queen of Hearts: Back to Wonderland ",
+      "entityType": "SHOW",
+      "parkId": "ca888437-ebb4-4d50-aed2-d227f7096968",
+      "externalId": "P2GS59",
+      "status": "OPERATING",
+      "showtimes": [
+        {
+          "type": "Performance Time",
+          "endTime": "2025-08-31T12:00:00+02:00",
+          "startTime": "2025-08-31T12:00:00+02:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-08-31T15:05:00+02:00",
+          "startTime": "2025-08-31T15:05:00+02:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-08-31T16:30:00+02:00",
+          "startTime": "2025-08-31T16:30:00+02:00"
+        }
+      ],
+      "lastUpdated": "2025-08-30T22:00:32Z"
+    },
+    {
+      "id": "d944b02c-12ce-4176-ac62-6a936f180b5c",
+      "name": "Cars Quatre Roues Rallye",
+      "entityType": "ATTRACTION",
+      "parkId": "ca888437-ebb4-4d50-aed2-d227f7096968",
+      "externalId": "P2XA02",
+      "queue": {
+        "STANDBY": {
+          "waitTime": 5
+        }
+      },
+      "status": "OPERATING",
+      "lastUpdated": "2025-12-27T17:37:06Z"
+    },
+    {
+      "id": "3bdddd5f-6ec1-4143-a915-2e95b2fa275f",
+      "name": "Animation Academy",
+      "entityType": "SHOW",
+      "parkId": "ca888437-ebb4-4d50-aed2-d227f7096968",
+      "externalId": "P2GS54",
+      "status": "OPERATING",
+      "showtimes": [
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T10:30:00+01:00",
+          "startTime": "2025-12-27T10:30:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T11:00:00+01:00",
+          "startTime": "2025-12-27T11:00:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T11:30:00+01:00",
+          "startTime": "2025-12-27T11:30:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T12:00:00+01:00",
+          "startTime": "2025-12-27T12:00:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T12:30:00+01:00",
+          "startTime": "2025-12-27T12:30:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T13:00:00+01:00",
+          "startTime": "2025-12-27T13:00:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T13:30:00+01:00",
+          "startTime": "2025-12-27T13:30:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T14:00:00+01:00",
+          "startTime": "2025-12-27T14:00:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T14:30:00+01:00",
+          "startTime": "2025-12-27T14:30:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T15:00:00+01:00",
+          "startTime": "2025-12-27T15:00:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T15:30:00+01:00",
+          "startTime": "2025-12-27T15:30:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T16:00:00+01:00",
+          "startTime": "2025-12-27T16:00:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T16:30:00+01:00",
+          "startTime": "2025-12-27T16:30:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T17:00:00+01:00",
+          "startTime": "2025-12-27T17:00:00+01:00"
+        }
+      ],
+      "lastUpdated": "2025-12-26T23:01:20Z"
+    },
+    {
+      "id": "8e229723-51c1-4668-b956-5bc45305acd9",
+      "name": "Les Tapis Volants - Flying Carpets Over Agrabah®",
+      "entityType": "ATTRACTION",
+      "parkId": "ca888437-ebb4-4d50-aed2-d227f7096968",
+      "externalId": "P2XA05",
+      "queue": {
+        "STANDBY": {
+          "waitTime": 5
+        }
+      },
+      "status": "OPERATING",
+      "lastUpdated": "2025-12-27T16:31:36Z"
+    },
+    {
+      "id": "d2ec9363-a215-4904-b297-b66734ea9a00",
+      "name": "The Twilight Zone Tower of Terror",
+      "entityType": "ATTRACTION",
+      "parkId": "ca888437-ebb4-4d50-aed2-d227f7096968",
+      "externalId": "P2ZA02",
+      "queue": {
+        "STANDBY": {
+          "waitTime": 40
+        },
+        "PAID_RETURN_TIME": {
+          "price": {
+            "amount": 1600,
+            "currency": "EUR",
+            "formatted": "16,00 €"
+          },
+          "state": "FINISHED",
+          "returnEnd": null,
+          "returnStart": null
+        }
+      },
+      "status": "OPERATING",
+      "lastUpdated": "2025-12-27T19:34:33Z"
+    },
+    {
+      "id": "449a20d8-9bfd-4b2b-b437-38a279aa8d88",
+      "name": "Cars ROAD TRIP",
+      "entityType": "ATTRACTION",
+      "parkId": "ca888437-ebb4-4d50-aed2-d227f7096968",
+      "externalId": "P2XA00",
+      "queue": {
+        "STANDBY": {
+          "waitTime": null
+        },
+        "PAID_RETURN_TIME": {
+          "price": {
+            "amount": 500,
+            "currency": "EUR",
+            "formatted": "5,00 €"
+          },
+          "state": "FINISHED",
+          "returnEnd": null,
+          "returnStart": null
+        }
+      },
+      "status": "DOWN",
+      "lastUpdated": "2025-12-27T14:46:37Z"
+    },
+    {
+      "id": "337bce77-57bd-49c7-83d7-662f16c162ea",
+      "name": "Slinky® Dog Zigzag Spin",
+      "entityType": "ATTRACTION",
+      "parkId": "ca888437-ebb4-4d50-aed2-d227f7096968",
+      "externalId": "P2XA08",
+      "queue": {
+        "STANDBY": {
+          "waitTime": 5
+        }
+      },
+      "status": "OPERATING",
+      "lastUpdated": "2025-12-27T15:11:16Z"
+    },
+    {
+      "id": "27cafc7d-b0dc-4531-98e0-9fe2ab675ef5",
+      "name": "Doctor Strange: Mystery of the Mystics!",
+      "entityType": "SHOW",
+      "parkId": "ca888437-ebb4-4d50-aed2-d227f7096968",
+      "externalId": "P2GS63",
+      "status": "OPERATING",
+      "showtimes": [
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T19:30:00+01:00",
+          "startTime": "2025-12-27T19:30:00+01:00"
+        },
+        {
+          "type": "Performance Time",
+          "endTime": "2025-12-27T20:15:00+01:00",
+          "startTime": "2025-12-27T20:15:00+01:00"
+        }
+      ],
+      "lastUpdated": "2025-12-26T23:01:20Z"
+    }
+  ]
+}
