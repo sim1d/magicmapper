@@ -277,7 +277,6 @@ const toggleFocus = () => {
     display: none;
     background: var(--color-black);
     color: var(--color-white);
-    display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
