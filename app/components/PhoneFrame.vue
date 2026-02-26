@@ -15,8 +15,6 @@
             <br>
             <br>
             <p><a href="https://github.com/sim1d/magicmapper" target="_blank">GitHub Link</a></p>
-            <p><a href="https://devpost.com/software/magicmapper" target="_blank">DevPost Link</a></p>
-            <p><a href="https://youtu.be/xrKdcysG6oM" target="_blank">Walkthrough Video Link</a></p>
         </div>
         <div class="content">
             <div class="frame-container">
