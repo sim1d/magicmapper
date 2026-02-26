@@ -300,7 +300,7 @@ a {
     text-align: justify;
 }
 
-@media (max-width: 999px), (max-height: 699px) {
+@media (max-width: 500px), (max-height: 500px) {
   .warning {
     display: flex;
   }
